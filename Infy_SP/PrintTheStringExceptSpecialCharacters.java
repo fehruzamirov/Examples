@@ -1,4 +1,4 @@
-package DSAExamples.src.Infy_SP;
+package Infy_SP;
 
 public class PrintTheStringExceptSpecialCharacters {
     public static void main(String[] args) {

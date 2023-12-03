@@ -1,4 +1,4 @@
-package DSAExamples.src.Infy_SP;
+package Infy_SP;
 
 /*
     Question 2 from Prepinsta
@@ -39,7 +39,7 @@ Input	Output	    Output Description
 
  */
 
-import java.util.Scanner;
+import java.util.*;
 
 public class InfyBirthdayCode {
     public static void main(String[] args) {

@@ -1,4 +1,7 @@
-package DSAExamples.src.Infy_SP;
+package Infy_SP;
+import java.util.*;
+import java.lang.*;
+import java.io.*;
 
 public class PalindromeBySWAP {
     public static void main(String[] args) {

@@ -1,6 +1,8 @@
-package DSAExamples.src.Infy_SP;
+package Infy_SP;
 
 import java.util.Scanner;
+import java.lang.*;
+import java.lang.Math;
 
 
 public class CoPrimeNumber {

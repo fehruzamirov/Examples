@@ -1,4 +1,4 @@
-package DSAExamples.src.Infy_SP;
+package Infy_SP;
 
 public class countSpecialCharactersInString {
     public static void main(String[] args) {

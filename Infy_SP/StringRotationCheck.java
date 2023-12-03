@@ -1,4 +1,4 @@
-package DSAExamples.src.Infy_SP;
+package Infy_SP;
 //check whether the s1==s2 present in rotation format
 public class StringRotationCheck {
     public static void main(String[] args) {

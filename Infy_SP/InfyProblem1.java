@@ -1,4 +1,4 @@
-package DSAExamples.src.Infy_SP;
+package Infy_SP;
 
 
 /*
@@ -58,7 +58,7 @@ The third monster can’t be defeated.
 
  */
 
-import java.util.Arrays;
+import java.util.*;
 import java.util.Comparator;
 import java.util.Scanner;
 

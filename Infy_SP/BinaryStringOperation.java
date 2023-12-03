@@ -176,10 +176,10 @@ class Main
 
 
 
-package DSAExamples.src.Infy_SP;
+package Infy_SP;
 
 
-import java.util.Scanner;
+import java.util.*;
 public class BinaryStringOperation {
     static String str;
     static int cash, n, a, b;

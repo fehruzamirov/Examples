@@ -17,7 +17,9 @@
 //            6    5    7
 //         4    1    8    3
 
-package DSAExamples.src.Infy_SP;
+package Infy_SP;
+
+import java.util.*;
 
 public class ArrayTriangle {
 
