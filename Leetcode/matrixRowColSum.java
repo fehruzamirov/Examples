@@ -1,4 +1,4 @@
-package DSAExamples.src.Leetcode;
+package Leetcode;
 
 public class matrixRowColSum {
     public static void main(String[] args) {

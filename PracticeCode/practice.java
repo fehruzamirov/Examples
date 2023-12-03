@@ -1,4 +1,4 @@
-package DSAExamples.src.PracticeCode;//import javax.swing.*;
+package PracticeCode;//import javax.swing.*;
 //import java.lang.*;
 //
 //public class practice {
@@ -38,6 +38,7 @@ package DSAExamples.src.PracticeCode;//import javax.swing.*;
 //
 //
 
+import java.util.*;
 public class practice {
     public static void main(String[] args) {
         pattern2(10);

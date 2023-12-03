@@ -1,4 +1,4 @@
-package DSAExamples.src.Pattern;
+package Pattern;
 
 public class p1 {
     public static void main(String[] args) {

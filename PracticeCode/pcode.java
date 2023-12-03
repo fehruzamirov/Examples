@@ -1,4 +1,4 @@
-package DSAExamples.src.PracticeCode;
+package PracticeCode;
 
 import java.io.IOException;
 import java.util.Scanner;

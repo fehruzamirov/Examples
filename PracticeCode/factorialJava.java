@@ -1,4 +1,4 @@
-package DSAExamples.src.PracticeCode;
+package PracticeCode;
  /*
        java code to find factorial of number using
        function

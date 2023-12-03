@@ -1,4 +1,4 @@
-package DSAExamples.src.Leetcode;
+package Leetcode;
 //**************Not run****************
 
 /* 53 Candy

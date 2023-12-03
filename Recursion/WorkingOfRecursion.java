@@ -1,4 +1,4 @@
-package DSAExamples.src.Recursion;
+package Recursion;
 
 public class WorkingOfRecursion {
     static void printfun(int test){

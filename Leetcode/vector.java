@@ -1,7 +1,5 @@
-package DSAExamples.src.Leetcode;
-
-import java.util.Iterator;
-import java.util.Vector;
+package Leetcode;
+import java.util.*;
 //import java.util.Iterator;
 //import java.util.Vector;
 

@@ -1,4 +1,4 @@
-package DSAExamples.src.PracticeCode;
+package PracticeCode;
 
 public class butterflyPattern {
     public static void main(String[] args) {

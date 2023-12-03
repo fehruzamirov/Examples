@@ -1,4 +1,4 @@
-package DSAExamples.src.PracticeCode;//package PracticeCode;
+//package PracticeCode;
 //
 //import org.w3c.dom.Node;
 //

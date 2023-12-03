@@ -1,4 +1,4 @@
-package DSAExamples.src.Leetcode;
+package Leetcode;
 
 import java.util.Scanner;
 

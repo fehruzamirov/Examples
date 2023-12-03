@@ -1,4 +1,4 @@
-package DSAExamples.src.PracticeCode;
+package PracticeCode;
 
 // Represent the node of list
 

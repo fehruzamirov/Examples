@@ -1,4 +1,4 @@
-package DSAExamples.src.PracticeCode;
+package PracticeCode;
 
 import org.jetbrains.annotations.NotNull;
 

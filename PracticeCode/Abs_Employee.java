@@ -1,6 +1,6 @@
-package DSAExamples.src.PracticeCode;
+package PracticeCode;
 
-import java.util.Scanner;
+import java.util.*;
 abstract class Abs_Employee
 {
     abstract void user();

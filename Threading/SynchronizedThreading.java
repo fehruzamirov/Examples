@@ -1,4 +1,4 @@
-package DSAExamples.src.Threading;
+package Threading;
 
 import java.util.Scanner;
 

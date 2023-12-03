@@ -1,4 +1,4 @@
-package DSAExamples.src.PracticeCode;
+package PracticeCode;
 
 import java.util.HashSet;
 import java.util.Objects;

@@ -1,4 +1,4 @@
-package DSAExamples.src.PracticeCode;
+package PracticeCode;
 
 // IMP
 // Code has a incorrect output - 31/07/2022

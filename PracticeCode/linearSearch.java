@@ -1,4 +1,4 @@
-package DSAExamples.src.PracticeCode;
+package PracticeCode;
 //Linear Search in Java
 public class linearSearch {
 

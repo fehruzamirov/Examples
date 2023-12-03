@@ -1,4 +1,4 @@
-package DSAExamples.src.PracticeCode;
+package PracticeCode;
 /*
 Initialize pos=1.
  Iterate till number>0,

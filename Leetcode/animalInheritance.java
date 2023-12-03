@@ -1,4 +1,4 @@
-package DSAExamples.src.Leetcode;
+package Leetcode;
 
 public class animalInheritance {
     protected String name;
