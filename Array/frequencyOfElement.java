@@ -1,4 +1,4 @@
-package Array;
+package DSAExamples.src.Array;
 
 public class frequencyOfElement {
     public static void main(String[] args) {
